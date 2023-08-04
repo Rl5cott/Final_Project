@@ -14,3 +14,4 @@ Import the AKC_Popular_Dog_breeds.csv
 * Numpy
 * os
 * glob 
+matplotlib.pyplot
